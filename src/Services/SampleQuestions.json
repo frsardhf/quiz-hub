@@ -1,0 +1,84 @@
+{
+  "results": [
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the capital of France?",
+      "correct_answer": "Paris",
+      "incorrect_answers": ["London", "Berlin", "Madrid"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the largest planet in our Solar System?",
+      "correct_answer": "Jupiter",
+      "incorrect_answers": ["Saturn", "Neptune", "Earth"]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the chemical symbol for gold?",
+      "correct_answer": "Au",
+      "incorrect_answers": ["Ag", "Pb", "Pt"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the lead singer of the band Queen?",
+      "correct_answer": "Freddie Mercury",
+      "incorrect_answers": ["Brian May", "Roger Taylor", "John Deacon"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which country is home to the kangaroo?",
+      "correct_answer": "Australia",
+      "incorrect_answers": ["New Zealand", "South Africa", "India"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the first President of the United States?",
+      "correct_answer": "George Washington",
+      "incorrect_answers": ["Thomas Jefferson", "John Adams", "James Madison"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which movie features the song 'My Heart Will Go On'?",
+      "correct_answer": "Titanic",
+      "incorrect_answers": ["Avatar", "The Lion King", "Frozen"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does CPU stand for?",
+      "correct_answer": "Central Processing Unit",
+      "incorrect_answers": ["Central Process Unit", "Computer Personal Unit", "Central Processor Unit"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which sport is known as 'the beautiful game'?",
+      "correct_answer": "Soccer",
+      "incorrect_answers": ["Basketball", "Cricket", "Rugby"]
+    },
+    {
+      "category": "Literature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "correct_answer": "Harper Lee",
+      "incorrect_answers": ["J.D. Salinger", "F. Scott Fitzgerald", "Ernest Hemingway"]
+    }
+  ]
+}
